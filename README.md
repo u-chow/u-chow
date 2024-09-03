@@ -14,6 +14,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=u-chow&theme=onedark)](https://github.com/u-chow/github-profile-trophy)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=u-chow&theme=react&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=u-chow&theme=dark)](https://git.io/streak-stats)
 
 About me
