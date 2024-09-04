@@ -17,8 +17,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=u-chow&theme=react&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=u-chow&theme=dark)](https://git.io/streak-stats)
 
-About me
 
-Main skill
-
-IT project experience
+IT project experience(unfinished):
+```
+E-commerce Website Development
+Mobile Application for Task Management
+Data Analysis and Visualization Tool
+Company Intranet Portal Development
+```
