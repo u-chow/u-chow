@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😻, I'm Yu-Chiao, Cheng</h1>
+<h1 align="center">Hi 😻, I'm u-chow</h1>
 <h3 align="center">A student from NTNU CSIE in Taiwan</h3>
 
 - 📫 How to reach me **richard930326@gmail.com**
