@@ -18,10 +18,12 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=u-chow&theme=dark)](https://git.io/streak-stats)
 
 
-IT project experience(unfinished):
+IT project experience:
 ```
-E-commerce Website Development
-Mobile Application for Task Management
-Data Analysis and Visualization Tool
-Company Intranet Portal Development
+Catan Project, Find-Me Game
+Software Bill of Materials Project
+Normal Game Jam Project
+Biomedical and Health Data Analytics Project
+Data-Analysis-for-AQI
+Software Engineering PM
 ```
