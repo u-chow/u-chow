@@ -27,3 +27,9 @@ Biomedical and Health Data Analytics Project
 Data-Analysis-for-AQI
 Software Engineering PM
 ```
+
+Certificate
+```
+IBM Data Visualization with Python
+IBM Python for Data Science, AI & Development
+```
